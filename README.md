@@ -103,5 +103,7 @@ pueden ver la guia paso a paso de estos proyectos en el un drive del instructor 
 
 link de la base de datos se que utlizo: https://firebase.google.com/?hl=es-419&gclid=Cj0KCQiA14WdBhD8ARIsANao07jdSHczzAjD3V--u4ooumbMrSMZyGCiMoCNvRzA8MyCzUhSZ0nlNOEaAnNBEALw_wcB&gclsrc=aw.ds
 
+link de donde se sacan las dependecias para los proyectos:https://pub.dev/
+
 
 
